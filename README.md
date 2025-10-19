@@ -42,11 +42,11 @@ OBSERVATIONS:
 Tabulation:
 
 LINE REGULATION
-<img width="638" height="306" alt="Screenshot 2025-10-11 194154" src="https://github.com/user-attachments/assets/4a8ecd8b-3411-4a55-8cf4-d536fd252165" />
+![WhatsApp Image 2025-10-19 at 7 03 19 PM (1)](https://github.com/user-attachments/assets/2b78b163-07fc-4c4b-82bb-c04ed2b4dda0)
 
 
 LOAD REGULATION
-<img width="739" height="332" alt="Screenshot 2025-10-11 194200" src="https://github.com/user-attachments/assets/cad15a61-bc96-4f81-9aa3-c4d98f39f012" />
+![WhatsApp Image 2025-10-19 at 7 03 20 PM (2)](https://github.com/user-attachments/assets/d498ebc7-8e2a-457e-b453-a1358cc5e7bb)
 
 
 REGULATION CHARACTERISTICS:
@@ -54,18 +54,18 @@ REGULATION CHARACTERISTICS:
 MODEL GRAPH
 
 LINE REGULATION
-<img width="818" height="332" alt="Screenshot 2025-10-11 194128" src="https://github.com/user-attachments/assets/4df6c00b-7230-404c-837a-dc2807e20c51" />
+![WhatsApp Image 2025-10-19 at 7 03 20 PM](https://github.com/user-attachments/assets/04d112cf-a0ca-4ee2-b69e-a9197a1ab2c2)
 
 
 LOAD REGULATION
-<img width="710" height="414" alt="Screenshot 2025-10-11 194136" src="https://github.com/user-attachments/assets/0797daf2-d431-4f19-95ac-2bf63327109a" />
+![WhatsApp Image 2025-10-19 at 7 03 21 PM](https://github.com/user-attachments/assets/aa2cd405-cf05-4ad8-adda-96b39ad62c0d)
 
 
 
 V-I & REGULATION CHARACTERISTICS:
-<img width="796" height="390" alt="Screenshot 2025-10-11 194143" src="https://github.com/user-attachments/assets/00765377-4ff5-41b4-be40-48c502cd6c9a" />
+![WhatsApp Image 2025-10-19 at 7 03 19 PM](https://github.com/user-attachments/assets/6682ec00-14d3-4e15-abf9-b1b62e5eda0b)
 
-<img width="848" height="429" alt="Screenshot 2025-10-11 194148" src="https://github.com/user-attachments/assets/529f806e-7440-4087-9455-007ed2af3b81" />
+![WhatsApp Image 2025-10-19 at 7 03 20 PM (1)](https://github.com/user-attachments/assets/c9241584-65b7-4e86-a618-5a2d86da8445)
 
 
 
